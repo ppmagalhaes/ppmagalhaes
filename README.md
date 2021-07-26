@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ppmagalhaes
+- 👋 Hi, I’m Pedro Magalhães
 - 👀 I’m interested in Machine Learning/ AI
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
